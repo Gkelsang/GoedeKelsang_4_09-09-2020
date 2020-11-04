@@ -78,10 +78,19 @@ nav li:hover{
 /* --------- Bloc image --------- */
 
 h2 {
-    font-size: 1.3em;
+    font-size: 1.5em;
     line-height: 1.4em;
     text-align: center;
-    color: #ffa57b;
+    color: #F3976C;
+}
+.annonce {
+    color: #F3976C;
+    font-size: 2em;
+
+}
+.container1 {
+    border: solid white 2px;
+    align-content: center;
 }
 
 /* --------- Fin Bloc image --------- */
