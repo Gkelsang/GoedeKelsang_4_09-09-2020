@@ -1042,3 +1042,8 @@ h1 {
         display: none;
     }
 }
+@media (min-width: 424px){
+    .annonce {
+        font-size: 150%;
+    }
+}
