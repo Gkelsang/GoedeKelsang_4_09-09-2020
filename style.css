@@ -59,6 +59,8 @@ nav li:hover{
     font-size: 1.2em;
     font-style: italic;
     text-align: center;
+    padding-top: 12%;
+    margin-top: 2%;
 }
 .client {
     font-size: 1em;
